@@ -1,0 +1,25 @@
+{
+  "name": "ghosthub",
+  "version": "1.0.0",
+  "description": "ghosthub CRM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham110019/ghosthub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham110019/ghosthub/issues"
+  },
+  "homepage": "https://github.com/shubham110019/ghosthub#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
